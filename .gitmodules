@@ -1,0 +1,6 @@
+[submodule "Team-Robo-Website"]
+	path = Team-Robo-Website
+	url = https://github.com/Team-Robo/Team-Robo-Website
+[submodule "Team-Robo-Site"]
+	path = Team-Robo-Site
+	url = https://github.com/Team-Robo/Team-Robo-Website
